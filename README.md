@@ -2,6 +2,7 @@
 # DS440 Capstone
 
 Yuya Jeremy Ong, Tomoki Takasawa
+(Capstone Project Copied Repo)
 
 ## Setup Routines
 To initialize this repository, first, setup the dataset folder by running the following bash script:
