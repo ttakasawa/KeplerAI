@@ -1,10 +1,10 @@
 
-# DS440 Capstone
+# DS440 Capstone Project Copied from Private Repo
 
-Check out Final Report for the complete version
+Check out Final Report for the report.
 
-Yuya Jeremy Ong, Tomoki Takasawa
-(Capstone Project Copied Repo)
+Yuya Jeremy Ong (Pipeline, Model Configurations), Tomoki Takasawa (EDA, Feature Engineering, Interpretable Models)
+
 
 ## Setup Routines
 To initialize this repository, first, setup the dataset folder by running the following bash script:
